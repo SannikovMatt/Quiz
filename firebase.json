@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site":"try-quiz",
     "public": "build",
     "ignore": [
       "firebase.json",
